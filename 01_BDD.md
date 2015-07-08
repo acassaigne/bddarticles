@@ -47,29 +47,24 @@ En première analyse on peut à juste titre trouver ces deux scenarii
 compliqués. L'équipe constate qu'il convient de développer un premier web
 service de déclaration de commande et un second web service d'interrogation
 des stock pour enfin développer le web service répondant au lancement de la
-préparation. Bref notre première User Story pas notre vrai première User
-Story.
+préparation. Bref notre première User Story ne semble donc être la vrai
+première User Story. En effet comment peut-on lancer la préparation d'une
+commande si nous n'avons pas la capacité d'intégrer ou créer des commandes.
 
-Faire simple est une mantra que l'on ne se repera jamais assez. Dans ce cas nous préconisons
-de "casser" la cette user story en 3 user stories.
+Faire simple est une mantra que l'on ne se repera jamais assez. Dans ce cas
+nous préconisons de "casser" la présente user story en 3 user stories.
 
-La première user story serait 
-Afin de pouvoir préparer des commandes 
-Je peux enregistrer une commande
-En tant que Damien
+La première user story serai :
+
+Afin de pouvoir préparer des commandes.
+Je peux enregistrer une commande.
+En tant que Damien.
 
 La second user story serait :
 
-Afin de pouvoir approvisionner mon stock .
+Afin de pouvoir gérer mon stock .
 Je peux consulter le niveau de stock d'un produit.
 En tant que Damien.
 
-Les exemples métier sont la matiere premiére des tests que nous implémenterons
 
-Ces exemples sont 
-Il permet d'établir un
-scope plus claire aux User Stories en établissant les tests acceptance
-
-Tests acceptance,
-BDD,
 
