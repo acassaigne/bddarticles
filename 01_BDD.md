@@ -67,4 +67,7 @@ Je peux consulter le niveau de stock d'un produit.
 En tant que Damien.
 
 
+La première User Story à implémenter est donc celle portant sur
+l'enregistrement des comandes.
+
 
